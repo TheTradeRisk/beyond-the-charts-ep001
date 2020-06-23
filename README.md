@@ -1,5 +1,5 @@
-# Beyond the Charts - EP001
-Is trading the golden cross 50/200SMA profitable? If yes, does it make sense to trade? We explore in this repository.
+# Is trading the golden cross 50/200SMA profitable? BTC-EP001
+In this episode of Beyond the Charts we ask the question, is trading the golden cross 50/200SMA profitable? If yes, does it make sense to trade?
 ## What is Beyond the Charts?
 Beyond the Charts is a series from the [Trade Risk](https://thetraderisk.com/) that seeks to answer new behavioral questions about the stock market every month. All of the episodes are recorded on the Trade Risk's [YouTube channel](https://youtube.com/thetraderisk) where we code up our experiments live with commentary and explanations.
 ## Steps to download code and run locally
