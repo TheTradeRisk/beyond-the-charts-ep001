@@ -1,7 +1,7 @@
 # Beyond the Charts - EP001
 Is trading the golden cross 50/200SMA profitable? If yes, does it make sense to trade? We explore in this repository.
 ## What is Beyond the Charts?
-Beyond the Charts is a series from the [Trade Risk](https://thetraderisk.com/) that seeks to answer new behavioral questions about the stock market every month. All of the episodes are recorded on the Trade Risk's [YouTube channel](https://youtube.com/thetraderisk) where we code up our experiments live with commentary and explanations. You can watch this episode here: [Youtube Embed]
+Beyond the Charts is a series from the [Trade Risk](https://thetraderisk.com/) that seeks to answer new behavioral questions about the stock market every month. All of the episodes are recorded on the Trade Risk's [YouTube channel](https://youtube.com/thetraderisk) where we code up our experiments live with commentary and explanations.
 ## Steps to download code and run locally
 All of the code is written in C# and built for the free [NinjaTrader](https://ninjatrader.com/) backtesting engine. If you want maintain the same folder structures as our demo with zero code editing, complete the following steps:
 ```
@@ -22,4 +22,4 @@ Due to data useage restriction agreements we cannot publish the historical stock
 ## Disclaimer
 Please be advised nothing here should be considered investment advice. The Trade Risk is not a registered financial advisor and is not recommending the purchase or selling of any securities or investment strategies. Please review our [disclaimer](https://www.thetraderisk.com/disclaimer) which applies to the contents of this repository. 
 ## Contact
-If you would like to reach us, please use the [contact](https://www.thetraderisk.com/contact) on our website. 
+If you would like to reach us, please use the [contact](https://www.thetraderisk.com/contact) page on our website. 
