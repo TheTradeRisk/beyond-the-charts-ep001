@@ -1,7 +1,9 @@
 # Is trading the golden cross 50/200SMA profitable?
 In this episode of Beyond the Charts we ask the question, is trading the golden cross 50/200SMA profitable? If yes, does it beat the benchmark and make sense to trade?
 ## What is Beyond the Charts?
-Beyond the Charts is a series from the [Trade Risk](https://thetraderisk.com/) that seeks to answer new behavioral questions about the stock market every month. All of the episodes are recorded on the Trade Risk's [YouTube channel](https://youtube.com/thetraderisk) where we code up our experiments live with commentary and explanations.
+Beyond the Charts is a series from the [Trade Risk](https://thetraderisk.com/) that seeks to answer new behavioral questions about the stock market every month. All of the episodes are recorded on the Trade Risk's [YouTube channel](https://youtube.com/thetraderisk) where we code up our experiments live with commentary and explanations. You can watch this episode here:
+
+<a href="https://www.youtube.com/watch?v=QjQtljfLKn4">![BTC EP001](https://www.thetraderisk.com/wp-content/uploads/2020/07/YouTubeEP001Thumbnail.png)</a>
 ## Steps to download code and run locally
 All of the code is written in C# and built for the free [NinjaTrader](https://ninjatrader.com/) backtesting engine. If you want maintain the same folder structures as our demo with zero code editing, complete the following steps:
 ```
